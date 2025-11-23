@@ -12,7 +12,7 @@ app.use(express.static(__dirname));
 
 // --- USER DATA ---
 const userData = {
-    name: "John Lloyd Aldrey Martirez",
+    name: "Jan Lloyd Aldrey Martirez",
     role: "Student/Crypto Enthusiast",
     affiliation: "BSIT SM 4102",
     bounty: 10, 
